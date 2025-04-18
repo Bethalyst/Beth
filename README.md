@@ -1,7 +1,7 @@
 # Beth
 # 👋 Hey, I'm Bethiana!
 
-# Caribbean👑/ Data analyst in trainning, translating messy data into clear visualization/ presentation with Python and SQL. Results-focused, skepticism-friendly.
+# Data analyst in trainning, translating messy data into clear visualization/ presentation with Python and SQL. Results-focused, skepticism-friendly.
 
 ## 🚀 Data Analyst Journey
 
