@@ -8,12 +8,7 @@
 **2026 Q1**: Visualized insights with Matplotlib and Seaborn (finally mastered those error bars).
 **2026 Q2**: Leveling up SQL queries and streamlining ETL processes.
 
-## 🛠️ Core Skills
-- **SQL**: Oracle DB, complex queries, joins, PL/SQL
-- **Python**: pandas, Matplotlib, NumPy, scripting automation
-- **Tools**: PowerBI, Excel, Git, VS Code
-
-## 🛠️ Projects
+## 🛠️ Future Projects Plan
 1. BSH Booking & Contract Management – Streamlining booking, payments, and contract processes for my biz. 🚀
 2. Pizza Data Dive – Slicing through pizza data just for fun (and insights, duh). 🍕😎
 3. Hospital Data Dashboard – Interactive visualizations tracking key hospital metrics for smarter decisions. 🏥📈
