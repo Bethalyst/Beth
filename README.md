@@ -1,16 +1,42 @@
-# Beth
+
 # 👋 Hey, I'm Bethiana!
-# Data analyst Queen Loading ............
+### Data analyst Queen Loading .............85%
+ *Ivy Tech Community College Certified Data Analyst*
 
-## 🚀 Data Analyst Journey
-**2025 Q3**: Built and queried databases using Oracle SQL and PL/SQL.
-**2025 Q4**: Automated tasks and wrangled data using Python and pandas.
-**2026 Q1**: Visualized insights with Matplotlib and Seaborn (finally mastered those error bars).
-**2026 Q2**: Leveling up SQL queries and streamlining ETL processes.
+[Linkedin Profile](www.linkedin.com/in/bethiana-viaud-9pb)
 
-## 🛠️ Future Projects Plan
-1. BSH Booking & Contract Management – Streamlining booking, payments, and contract processes for my biz. 🚀
-2. Pizza Data Dive – Slicing through pizza data just for fun (and insights, duh). 🍕😎
-3. Hospital Data Dashboard – Interactive visualizations tracking key hospital metrics for smarter decisions. 🏥📈
+Data Analytics Tools:
+- Microsoft Excel (Pivot Tables, Lookups, Charts, Data Cleaning)
+- Google Sheets & Google Docs
+- SQL (Basic queries, joins, filters)
+- Python (Data analysis libraries, automation basics)
 
-Information Dective.... The Data doesn’t lie 
+  # 👋 Welcome to My Data Analytics Workbook
+
+You’ve landed in my personal data analytics workspace!  
+This repository serves as my **My learning and practice environment**, where I explore real-world data, sharpen my analytical skills, and document my growth as a certified Data Analyst.
+
+## 🧠 About Me
+- 📊 **Certified Data Analyst** passionate about turning data into clear, meaningful insights.  
+- 🗣️ **Bilingual:** English & Haitian Creole (basic French)  
+- 🐾 Proud *cat lady* and lifelong learner.  
+- 💼 Skilled in **Data Entry, Customer Relations, and Business Reporting**.  
+
+## 🧰 Tech & Tools
+- **Languages:** SQL (Basic), Python  
+- **Spreadsheets:** Microsoft Excel, Google Sheets  
+- **Productivity:** Microsoft Word, Outlook, Google Docs, zoom, Teams
+- **Focus Areas:** Data Cleaning, Processing, Visualization, and Automation Practice  
+
+## 🚀 Purpose of This Repo
+This is my **personal workbook** — a space where I:
+- Experiment with analytics projects  
+- Practice data manipulation and visualization  
+- Document scripts, queries, and Excel workflows  
+- Build confidence in end-to-end analysis  
+
+> ⚠️ Note: Enrty level analyst. 
+    WELCOME!!
+---
+
+*Thanks for stopping by — feel free to connect with me professionally if you’re into data, tech, or analytics!*
