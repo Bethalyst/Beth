@@ -7,6 +7,7 @@
 
 Data Analytics Tools:
 - Microsoft Excel (Pivot Tables, Lookups, Charts, Data Cleaning)
+- PowerBI
 - Google Sheets & Google Docs
 - SQL (Basic queries, joins, filters)
 - Python (Data analysis libraries, automation basics)
@@ -14,7 +15,7 @@ Data Analytics Tools:
   # 👋 Welcome to My Data Analytics Workbook
 
 You’ve landed in my personal data analytics workspace!  
-This repository serves as my **My learning and practice environment**, where I explore real-world data, sharpen my analytical skills, and document my growth as a certified Data Analyst.
+This repository serves as **My learning and practice environment**, where I explore real-world data, sharpen my analytical skills, and document my growth as a certified Data Analyst.
 
 ## 🧠 About Me
 - 📊 **Certified Data Analyst** passionate about turning data into clear, meaningful insights.  
